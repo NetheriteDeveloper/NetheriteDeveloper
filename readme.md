@@ -4,4 +4,4 @@
 
 # Currently Working On...
 
-## SealOS (Proxy frontend themed around Ubuntu Linux, made for SealCentral
+## SealOS (Proxy frontend themed around Ubuntu Linux, made for SealCentral)
