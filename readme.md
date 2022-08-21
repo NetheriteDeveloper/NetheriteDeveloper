@@ -4,4 +4,4 @@
 
 # Currently Working On...
 
-## SealOS (Proxy frontend themed around Ubuntu Linux, made for SealCentral)
+## GFiles (Team Lunar's take on the GFiles concept with more modern games and a sleek ui)
