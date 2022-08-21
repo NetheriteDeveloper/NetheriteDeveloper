@@ -4,4 +4,4 @@
 
 # Currently Working On...
 
-## GFiles (Team Lunar's take on the GFiles concept with more modern games and a sleek ui)
+## GFiles X (Team Lunar's take on the GFiles concept with more modern games and a sleek ui)
