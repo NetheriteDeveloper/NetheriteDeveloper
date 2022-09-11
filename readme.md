@@ -4,4 +4,4 @@
 
 # Currently Working On...
 
-## GFiles X (Team Lunar's take on the GFiles concept with more modern games and a sleek ui)
+## Adding settings to Luminite
