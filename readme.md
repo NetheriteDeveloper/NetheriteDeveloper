@@ -4,4 +4,4 @@
 
 # Currently Working On...
 
-## Adding settings to Luminite
+## Learning how to make a proxy backend
