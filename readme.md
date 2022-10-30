@@ -4,9 +4,9 @@
 
 <h1 align="center">(Programming) Languages I'm fluent in</h1>
 
-<p style="font-weight:bold;" align="center">HTML5/p>
-<p style="font-weight:bold;" align="center">CSS3</p>
-<p style="font-weight:bold;" align="center">JavaScript</p>
+<p style="font-weight:bold;" align="center">- HTML5</p>
+<p style="font-weight:bold;" align="center">- CSS3</p>
+<p style="font-weight:bold;" align="center">- JavaScript</p>
 
 <h1 align="center">(Programming) Launguages I'm Learning</h1>
 
