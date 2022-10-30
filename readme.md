@@ -4,12 +4,13 @@
 
 <h1 align="center">(Programming) Languages I'm fluent in</h1>
 
-- HTML5
-- CSS3
-- JS
+<p style="font-weight:bold;" align="center">HTML5/p>
+<p style="font-weight:bold;" align="center">CSS3</p>
+<p style="font-weight:bold;" align="center">JavaScript</p>
 
 <h1 align="center">(Programming) Launguages I'm Learning</h1>
-- React/React Native
+
+<p style="font-weight:bold;" align="center">React/React Native</p>
 
 <h1 align="center">Projects</h1>
 
