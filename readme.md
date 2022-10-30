@@ -4,7 +4,9 @@
 
 <h1 align="center">Programming Languages I'm fluent in</h1>
 
+<div align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" width="128" height="128" /><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" height="128" /><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="128" height="128" />
+</div>
 
 <h1 align="center">Programming Launguages I'm Learning</h1>
 
