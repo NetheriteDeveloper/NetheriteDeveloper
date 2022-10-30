@@ -1,6 +1,6 @@
 <h1 align="center">About Me</h1>
 
-## I am Amy / Lunadox, a developer mainly in HTML5, CSS3, JS, and Python. I started working on making websites using google sites in late 2020 but didn't get more serious about coding until early 2022. I slowly became more and more apart of the unblocking/proxy community and made lots of friends. I also edit and have a YouTube channel where I upload videos sometimes !!!
+## I am Amy / Lunadox, a Frontend Web Developer trying to learn backend too. I started learning how to make websites using google sites in late 2020 but didn't learn how to actually code until early 2022. I'm pretty active in the unblocking/filter bypassing community and own a server called <a href="https://dsc.gg/teamlunar">Team Lunar.</a>
 
 <h1 align="center">Programming Languages I'm fluent in</h1>
 
