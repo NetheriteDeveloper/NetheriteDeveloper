@@ -5,9 +5,9 @@
 <h1 align="center">Projects</h1>
 
 
-<h1 align="center">Luminite <a href="https://luminite.lunadox.repl.co/">(Check out!)</a></h1>
-<h1 align="center">Luna Hub V1 (No longer Maintained) <a href="https://sites.google.com/view/lunahub">(Check out!)</a></h1>
-<h1 align="center">Luna Hub V2 (Unreleased)</h1>
+<p align="center">Luminite <a href="https://luminite.lunadox.repl.co/">(Check out!)</a></p>
+<p align="center">Luna Hub V1 (No longer Maintained) <a href="https://sites.google.com/view/lunahub">(Check out!)</a></p>
+<p align="center">Luna Hub V2 (Unreleased)</p>
 
 <br>
   
