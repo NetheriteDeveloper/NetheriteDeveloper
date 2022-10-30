@@ -2,13 +2,13 @@
 
 ## I am Amy / Lunadox, a developer mainly in HTML5, CSS3, JS, and Python. I started working on making websites using google sites in late 2020 but didn't get more serious about coding until early 2022. I slowly became more and more apart of the unblocking/proxy community and made lots of friends. I also edit and have a YouTube channel where I upload videos sometimes !!!
 
-<h1 align="center">(Programming) Languages I'm fluent in</h1>
+<h1 align="center">Programming Languages I'm fluent in</h1>
 
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" width="128" height="128" />
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" width="128" height="128">
 <p style="font-weight:bold;" align="center">- CSS3</p>
 <p style="font-weight:bold;" align="center">- JavaScript</p>
 
-<h1 align="center">(Programming) Launguages I'm Learning</h1>
+<h1 align="center">Programming Launguages I'm Learning</h1>
 
 <p style="font-weight:bold;" align="center">React/React Native</p>
 
