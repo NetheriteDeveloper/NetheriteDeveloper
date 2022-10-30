@@ -10,7 +10,9 @@
 
 <h1 align="center">Programming Launguages I'm Learning</h1>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="128" height="128" />
+<div align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="128" />
+</div>
 
 <h1 align="center">Projects</h1>
 
