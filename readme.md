@@ -4,7 +4,7 @@
 
 <h1 align="center">(Programming) Languages I'm fluent in</h1>
 
-<p style="font-weight:bold;" align="center">- HTML5</p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" width="128" height="128" />
 <p style="font-weight:bold;" align="center">- CSS3</p>
 <p style="font-weight:bold;" align="center">- JavaScript</p>
 
