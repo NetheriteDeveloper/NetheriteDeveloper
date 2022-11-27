@@ -1,6 +1,6 @@
 <h1 align="center">About Me</h1>
 
-I am Amy / Lunadox, a Frontend Web Developer trying to learn backend too. I started learning how to make websites using google sites in late 2020 but didn't learn how to actually code until early 2022. I'm pretty active in the unblocking/filter bypassing community and own a server called <a href="https://dsc.gg/teamlunar">Team Lunar.</a>
+I'm a Fullstack Developer who makes websites and youtube videos as a hobby. I own an organization called <a href="https://thecelestial.org">Celestial</a> and am a developer for <a href="https://dsc.gg/sealcentral">SealCentral</a> and <a href="https://discord.gg/unblocker">Nebula Services</a>
 
 <h1 align="center">Fluent In...</h1>
 
