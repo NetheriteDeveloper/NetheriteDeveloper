@@ -25,5 +25,5 @@ I am Amy / Lunadox, a Frontend Web Developer trying to learn backend too. I star
 <p style="font-weight:bold;" align="center">NebulaVPN (Unreleased)</p>
 
 <h1 align="center">Contact</h1>
-## Discord: Lunadox ✿#0206
-## Email: amy@thecelestial.org
+##Discord: Lunadox ✿#0206
+##Email: amy@thecelestial.org
