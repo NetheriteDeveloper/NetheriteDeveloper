@@ -23,6 +23,4 @@ I'm a Fullstack Developer who makes websites and youtube videos as a hobby. I ow
 <p style="font-weight:bold;" align="center">Lucid <a href="https://github.com/AstralService/Lucid">(Check out!)</a></p>
 <p style="font-weight:bold;" align="center">NebulaVPN (Unreleased)</p>
 
-<h1 align="center">Contact</h1>
-
-## Discord: Lunadox ✿#0206 | Email: amy@thecelestial.org
+## Discord: Lunadox ✿#020
