@@ -11,9 +11,8 @@ I am Amy / Lunadox, a Frontend Web Developer trying to learn backend too. I star
 
 <h1 align="center">Projects</h1>
 
-<p style="font-weight:bold;" align="center">Luminite <a href="https://luminite.lunadox.repl.co/">(Check out!)</a></p>
-<p style="font-weight:bold;" align="center">Luna Hub V1 (No longer Maintained) <a href="https://sites.google.com/view/lunahub">(Check out!)</a></p>
-<p style="font-weight:bold;" align="center">Luna Hub V2 (Unreleased)</p>
+<p style="font-weight:bold;" align="center">Celestial <a href="https://thecelestial.org">(Check out!)</a></p>
+<p style="font-weight:bold;" align="center">Celestial Gaming (Unreleased)</p>
 
 <br>
   
@@ -21,7 +20,7 @@ I am Amy / Lunadox, a Frontend Web Developer trying to learn backend too. I star
 
 <p style="font-weight:bold;" align="center">SealCentral <a href="https://www.imtiredofmychild.com">(Check out!)</a></p>
 <p style="font-weight:bold;" align="center">SealCentral HTML5 (Unreleased)</p>
-<p style="font-weight:bold;" align="center">Lucid <a href="https://lucidofficial.xyz/">(Check out!)</a></p>
+<p style="font-weight:bold;" align="center">Lucid <a href="https://github.com/AstralService/Lucid">(Check out!)</a></p>
 <p style="font-weight:bold;" align="center">NebulaVPN (Unreleased)</p>
 
 <h1 align="center">Contact</h1>
