@@ -26,4 +26,4 @@ I am Amy / Lunadox, a Frontend Web Developer trying to learn backend too. I star
 
 <h1 align="center">Contact</h1>
 
-## Discord: Lunadox | ✿#0206 Email: amy@thecelestial.org
+## Discord: Lunadox ✿#0206 | Email: amy@thecelestial.org
