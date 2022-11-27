@@ -1,6 +1,7 @@
 <h1 align="center">About Me</h1>
 
 I'm a Fullstack Developer who makes websites and youtube videos as a hobby. I own an organization called <a href="https://thecelestial.org">Celestial</a> and am a developer for <a href="https://dsc.gg/sealcentral">SealCentral</a> and <a href="https://discord.gg/unblocker">Nebula Services</a>
+## Discord: Lunadox ✿#020
 
 <h1 align="center">Fluent In...</h1>
 
@@ -22,5 +23,3 @@ I'm a Fullstack Developer who makes websites and youtube videos as a hobby. I ow
 <p style="font-weight:bold;" align="center">SealCentral HTML5 (Unreleased)</p>
 <p style="font-weight:bold;" align="center">Lucid <a href="https://github.com/AstralService/Lucid">(Check out!)</a></p>
 <p style="font-weight:bold;" align="center">NebulaVPN (Unreleased)</p>
-
-## Discord: Lunadox ✿#020
