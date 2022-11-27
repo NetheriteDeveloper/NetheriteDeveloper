@@ -1,6 +1,6 @@
 <h1 align="center">About Me</h1>
 
-## I am Amy / Lunadox, a Frontend Web Developer trying to learn backend too. I started learning how to make websites using google sites in late 2020 but didn't learn how to actually code until early 2022. I'm pretty active in the unblocking/filter bypassing community and own a server called <a href="https://dsc.gg/teamlunar">Team Lunar.</a>
+I am Amy / Lunadox, a Frontend Web Developer trying to learn backend too. I started learning how to make websites using google sites in late 2020 but didn't learn how to actually code until early 2022. I'm pretty active in the unblocking/filter bypassing community and own a server called <a href="https://dsc.gg/teamlunar">Team Lunar.</a>
 
 <h1 align="center">Fluent In...</h1>
 
@@ -25,5 +25,5 @@
 <p style="font-weight:bold;" align="center">NebulaVPN (Unreleased)</p>
 
 <h1 align="center">Contact</h1>
-Discord: Lunadox ✿#0206
-Email: amy@thecelestial.org
+### Discord: Lunadox ✿#0206
+### Email: amy@thecelestial.org
