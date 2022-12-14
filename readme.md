@@ -12,5 +12,5 @@ I'm a Developer who makes projects for fun as a hobby. I am also currently worki
 <h1 align="center">Other Materials (Friends)</h1>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/114841605/207479883-95b41399-87b0-41fd-aa5b-dd195b22ec5c.png" width="128" height="128" /><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" height="128" /><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="100" height="100" />
+<img src="https://user-images.githubusercontent.com/114841605/207479883-95b41399-87b0-41fd-aa5b-dd195b22ec5c.png" width="128" height="128" /><img src="<img src="https://user-images.githubusercontent.com/114841605/207480045-57373c0b-be5a-41e7-a106-86dbba366e9e.png"/> width="128" height="128" /><img src="https://freepngimg.com/thumb/minecraft/21-2-minecraft-emerald-png.png" width="100" height="100" /><img src="https://minecraft-max.net/upload/iblock/845/k0sm05x8mhzfvqwkqsqaxji4js9tpzvp.png" width="100" height="100" />
 </div>
