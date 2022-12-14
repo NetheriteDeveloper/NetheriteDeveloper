@@ -1,6 +1,6 @@
 <h1 align="center">About Me</h1>
 
-I'm a Fullstack Developer who makes projects for fun as a hobby. I am also currently working on some projects in private with a website like SealCentral and Lunahub.
+I'm a Developer who makes projects for fun as a hobby. I am also currently working on some projects in private with a website like SealCentral and Lunahub.
 ## Discord: NetheriteDev#4598
 
 <h1 align="center">Fluent In...</h1>
